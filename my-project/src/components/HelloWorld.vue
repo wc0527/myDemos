@@ -12,7 +12,7 @@
     </ul>
     <h2>Ecosystem</h2>
     <ul>
-       <li><router-link to="/Items">第二页</router-link></li>
+       <li><router-link to="/send">第二页</router-link></li>
     </ul>
     <div> 跳转</div>
   </div>
