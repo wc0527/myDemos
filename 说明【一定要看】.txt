@@ -1,1 +1,2 @@
-﻿需要执行 npm install  把 node_modules 下载下来
+﻿vscode的集成终端：需要执行 npm install  把 node_modules 下载下来
+然后输入 npm run dev 就可以运行了
